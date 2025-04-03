@@ -1,0 +1,26 @@
+body{
+    font-family: 'Times New Roman', Times, serif;
+    margin: 0px;
+    padding: 35px;
+    background-color:black;
+    color: white;
+    text-align:justify;
+}
+header{
+    padding: 10px;
+}
+section{
+    margin: 20px;
+    padding: 10px;
+    border-radius: 8px;
+}
+h1,h2 {
+    color: aquamarine;
+}
+.cv a{
+    display: inline-block;
+
+}
+.cv a:hover{
+    background: crimson;
+}
